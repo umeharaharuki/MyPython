@@ -1,4 +1,3 @@
-from binascii import a2b_hex
 from turtle import*
 shape("turtle")
 col = ["orange","limegreen","gold","plum","tomato"]
